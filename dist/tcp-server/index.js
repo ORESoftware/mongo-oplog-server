@@ -1,4 +1,4 @@
-"use strict";
+'use strict';
 Object.defineProperty(exports, "__esModule", { value: true });
 var net = require("net");
 var JSONStdio = require("json-stdio");

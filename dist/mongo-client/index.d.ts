@@ -1,1 +1,2 @@
-export declare const client: any;
+import { MongoClient } from 'mongodb';
+export declare const client: MongoClient;

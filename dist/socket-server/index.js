@@ -1,4 +1,4 @@
-"use strict";
+'use strict';
 Object.defineProperty(exports, "__esModule", { value: true });
 var Server = require("socket.io");
 var bunion_1 = require("bunion");
